@@ -1,6 +1,6 @@
-# Project Title
+# Title
 
-EXPLORING FUNCTIONAL PROGRAMMING
+EXPLORING FUNCTIONAL PROGRAMMING.
 
 ## Versioning
 
@@ -9,8 +9,6 @@ We use [SemVer](http://semver.org/) for versioning.
 ## Authors
 
 * **Victor Chatterji** - *Initial work* - [Victor](https://github.com/VictorChatterji)
-
-See also the list of [contributors](https://github.com/your/project/contributors) who participated in this project.
 
 ## License
 
